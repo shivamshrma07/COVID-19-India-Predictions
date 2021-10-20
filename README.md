@@ -9,7 +9,7 @@ In this project, I had trained a Regression Model to predict Daily Confirmed Cas
 * Train set : 8 June 2020 to 22 June 2020 (15 days).
 ### Task - 2 : Training Model with Normal Equation method.
 * It includes training of model on train set.
-* Finding the best polynomial function to use as hypothesis with the help of dev set.
+* Finding the best polynomial function to use as hypothesis with the help of developer set.
 * Regularization parameter tuning with the help of dev set.
 ### Task - 3 : Conclusion.
 * Finding the accuracy on test set.
